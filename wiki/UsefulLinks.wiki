@@ -1,3 +1,0 @@
-#summary One-sentence summary of this page.
-
-https://aws-portal.amazon.com/gp/aws/developer/account/index.html?ie=UTF8&action=access-key
