@@ -2,7 +2,7 @@
 
 == bobble(String _query_) ==
 
-The _query_ is executed inside the persistent JavaScript bobble, and a deep-clone of the object inside the bobble is returned to the caller's environment. The _query_ is wrapped inside a lambda function before being executed. This allows you to create local variable with _var_, and requires you to use _return_ in order to get data back.
+The _query_ is executed inside the persistent JavaScript bobble, and a deep-clone of the object inside the bobble is returned to the caller's environment. The _query_ is wrapped inside a lambda function before being executed. This allows you to create local variables with _var_, and requires you to use _return_ in order to get data back.
 
 Example:
 {{{
