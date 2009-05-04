@@ -1,4 +1,4 @@
-#summary Functions exposed to JavaScript.
+#summary Functions exposed to JavaScript in TurKit.
 
 == bobble(String _query_) ==
 
