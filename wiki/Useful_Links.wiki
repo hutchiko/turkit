@@ -1,8 +1,0 @@
-#summary External Documentation and the like.
-
-==Amazon==
- * [https://aws-portal.amazon.com/gp/aws/developer/account/index.html?ie=UTF8&action=access-key View your Amazon AWS access keys]
-
-==Documentation==
- * [http://docs.amazonwebservices.com/AWSMechanicalTurkRequester/2008-08-02/ MTurk REST API]
-   * From the sidebar, open API Reference, and then Operations
